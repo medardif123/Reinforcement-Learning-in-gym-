@@ -6,5 +6,5 @@ in this work i have applied q learning,sarsa to the Taxi environment of gym and 
 
 ## Results :
 ### Q learning :
-after training the agent i have launched 100 episodes to see how the agent will perform and the following are the results that i have got :
-
+the results of the training are the following  :
+![alt img](https://github.com/medardif123/Reinforcement-Learning-in-gym-/blob/main/Q%20learning/reward.png)
